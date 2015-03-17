@@ -1,3 +1,3 @@
-subredditTomp3s
+asmrProjectHelpers
 =========
-Scrapes a subreddit for youtube videos and converts them to an mp3
+Helper functions for ASMR analysis project, and extracted features of ASMR files, readable with Weka.
